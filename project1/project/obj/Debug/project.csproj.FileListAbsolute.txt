@@ -1,0 +1,30 @@
+C:\ปี 1 เทอม 1\project1\project\bin\Debug\project.exe.config
+C:\ปี 1 เทอม 1\project1\project\bin\Debug\project.exe
+C:\ปี 1 เทอม 1\project1\project\bin\Debug\project.pdb
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.Form1.resources
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.Form2.resources
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.Form3.resources
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.Form4.resources
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.Form5.resources
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.Form6.resources
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.Properties.Resources.resources
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.exe
+C:\ปี 1 เทอม 1\project1\project\obj\Debug\project.pdb
+C:\ปี 1\project1\project\bin\Debug\project.exe.config
+C:\ปี 1\project1\project\bin\Debug\project.exe
+C:\ปี 1\project1\project\bin\Debug\project.pdb
+C:\ปี 1\project1\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\ปี 1\project1\project\obj\Debug\project.Form1.resources
+C:\ปี 1\project1\project\obj\Debug\project.Form2.resources
+C:\ปี 1\project1\project\obj\Debug\project.Form3.resources
+C:\ปี 1\project1\project\obj\Debug\project.Form4.resources
+C:\ปี 1\project1\project\obj\Debug\project.Form5.resources
+C:\ปี 1\project1\project\obj\Debug\project.Form6.resources
+C:\ปี 1\project1\project\obj\Debug\project.Properties.Resources.resources
+C:\ปี 1\project1\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\ปี 1\project1\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\ปี 1\project1\project\obj\Debug\project.exe
+C:\ปี 1\project1\project\obj\Debug\project.pdb
